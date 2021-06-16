@@ -9,7 +9,7 @@ import android.os.Handler;
 public class IntroActivity extends AppCompatActivity {
 
     //2021-06-16 Version 1.0
-    //잘 됩니다 여러분들!!!
+    // 김유신님 수고했어요~^^
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
