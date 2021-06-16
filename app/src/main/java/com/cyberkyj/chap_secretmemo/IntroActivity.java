@@ -8,6 +8,8 @@ import android.os.Handler;
 
 public class IntroActivity extends AppCompatActivity {
 
+    //2021-06-16 Version 1.0
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
